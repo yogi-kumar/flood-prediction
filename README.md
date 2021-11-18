@@ -57,6 +57,8 @@ Seasonal ARIMA = ARIMA(p,d,q) * (P,D,Q)S
 
 ![](./assests/img5.PNG)
 
+## CSV 
+<p>Andhra Pradesh CSv's in the data folder</p>
 
 ## Conclusions:
 
